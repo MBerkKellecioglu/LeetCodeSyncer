@@ -1,0 +1,6 @@
+{
+  "solutions_repository": "C:\\path\\to\\your\\leetcode-solutions",
+  "expected_remote": "https://github.com/your-name/leetcode-solutions.git",
+  "git_name": "Your Name",
+  "git_email": "12345678+your-name@users.noreply.github.com"
+}
